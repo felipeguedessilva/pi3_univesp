@@ -1,0 +1,47 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: Arial, sans-serif; /* Escolha uma fonte padrão ou personalizada */
+}
+
+.App {
+  text-align: center;
+  padding: 8px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 8px;
+  color: white;
+}
+
+button {
+  background-color: #42B091;
+  color: #e2e2e2;
+  border: 1px solid #e2e2e2;
+  border-radius: 15px;
+  padding: 8px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #31a081;
+  border: 1px solid white;
+  color: white;
+}
+.placeholder-black::placeholder {
+  color: black;
+}

@@ -1,0 +1,31 @@
+{
+    "relatorios": [
+      {
+        "id": 1,
+        "titulo": "Relatório de Vendas",
+        "nomeCliente": "João da Silva",
+        "dataEntrega": "2024-09-30",
+        "endereco": "Rua Exemplo, 123, Bairro, Cidade",
+        "produto": "Produto1"
+      },
+      {
+        "id": 2,
+        "titulo": "Relatório de Projetos",
+        "nomeCliente": "Maria Oliveira",
+        "dataEntrega": "2024-10-05",
+        "endereco": "Avenida Exemplo, 456, Centro, Cidade",
+        "produto": "Produto2"
+
+      },
+      {
+        "id": 3,
+        "titulo": "Relatório de Projetos",
+        "nomeCliente": "Bless Xavier",
+        "dataEntrega": "2024-10-05",
+        "endereco": "Avenida Exemplo, 456, Centro, Cidade",
+        "produto": "Produto2"
+
+      }
+    ]
+  }
+  
